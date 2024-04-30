@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a bug report to help us improve Facets
-title: 'Bug -'
-labels: 'bug,needs-triage'
+title: '[Bug]: '
+labels: '["bug", "needs-triage"]'
 assignees: ''
 
 ---
@@ -11,11 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **How to Reproduce this issue**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Add the detailed steps to reproduce the behavior.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
