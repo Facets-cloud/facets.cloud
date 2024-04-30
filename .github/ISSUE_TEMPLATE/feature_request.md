@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: Suggest a feature or enhancement for Facets.Cloud
+title: 'Feature/Enhancement Request - '
+labels: 'needs-triage'
 assignees: ''
 
 ---
