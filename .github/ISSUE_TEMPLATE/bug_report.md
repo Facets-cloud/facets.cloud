@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a bug report to help us improve Facets
 title: '[Bug]: '
-labels: '["bug", "needs-triage"]'
+labels: 'bug, needs-triage'
 assignees: ''
 
 ---
