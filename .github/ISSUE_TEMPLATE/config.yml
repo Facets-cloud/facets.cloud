@@ -1,1 +1,6 @@
 blank_issues_enabled: false
+external_links:
+  - name: Facets Technical Documentation
+    url: https://readme.facets.cloud/docs
+    about: Facets enables you to self-service your cloud environments and infrastructure.
+footer: "Thank you for using Facets for your workflows! Please use the templates above to submit your issue."
