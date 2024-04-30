@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a feature or enhancement for Facets.Cloud
+about: Suggest a feature or enhancement for Facets
 title: '[Feature/Enhancement Request]: '
 labels: 'enhancement, needs-triage'
 assignees: ''
